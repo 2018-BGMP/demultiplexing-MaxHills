@@ -1,0 +1,12 @@
+Index Seq	Total	%ofAll	Match#	Match%	QC#	QC%	InHop#	InHop%
+TACCGGAT	2	25.00%	0	0.00%	1	50.00%	1	50.00%
+GATCTTGC	2	25.00%	1	50.00%	1	50.00%	0	0.00%
+Total Number of Reads: 8
+Number of Unmatched Reads: 7
+Percent of All Reads that were Unmatched: 87.50%
+Number of Reads with an index containing an N: 2
+Percent of All Indexes Containing at least 1 N: 25.00%
+Number of Reads Removed for Low Quality-Scores: 2
+Percent of All Reads with a Low Quality-Score: 25.00%
+Number of Reads Removed for Index-Hopping: 1
+Percent of All Reads with Index-Hopping: 12.50%
